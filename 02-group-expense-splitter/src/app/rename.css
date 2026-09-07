@@ -1,0 +1,1 @@
+.rename-group{display:flex;gap:7px;align-items:center}.rename-group input{width:min(420px,100%);border:0;border-bottom:1px solid var(--ink);background:transparent;padding:5px 0;font:600 clamp(32px,5vw,56px) Fraunces;letter-spacing:-.06em;color:var(--ink)}.rename-group button{border:1px solid var(--ink);background:transparent;padding:7px 9px;font:10px 'DM Mono'}
